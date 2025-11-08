@@ -13,3 +13,5 @@ if i knew assembly this would be so much cooler but idk how why where when dalfa
 okay bye
 
 i might mess w/ this later but ill just leave it here how it is for now :P
+
+<img width="202" height="232" alt="image" src="./ss/image.png" />
